@@ -12,10 +12,14 @@ Used loops in PHP to populate <select> elements for efficient form management.
 Validated grades before insertion, stored them in the Results table, and displayed a confirmation message upon successful submission.
 
 
+
 Étape 3 – Detailed Grade View
 
 Retrieved grades from the server using precise SQL queries.Leveraged PHP loops for displaying grades in a structured and readable manner.
+
 Ensured all relevant information (courses and evaluations) was visible, with no output for evaluations missing grades.
+
+
 
 
 Étape 4 – Global Grade View
@@ -25,9 +29,15 @@ Only displayed complete courses (with three grades), ensuring clarity in the glo
 
 
 
+
+
+
 Étape 5 – Homepage and Navigation Menu
 
 Developed a homepage as the system's entry point.Implemented a navigation menu accessible across all pages for seamless user interaction.
+
+
+
 
 Étape 6 – Grade Update Functionality
 
