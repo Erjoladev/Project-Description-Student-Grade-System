@@ -8,8 +8,6 @@ Ensured appropriate data types and established clear relationships between table
 Dynamically fetched course and evaluation lists from the server.
 Used loops in PHP to populate <select> elements for efficient form management.
 
-
-
 Étape 3 – Detailed Grade View
 
 Retrieved grades from the server using precise SQL queries.Leveraged PHP loops for displaying grades in a structured and readable manner.
