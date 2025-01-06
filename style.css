@@ -1,0 +1,77 @@
+body {
+    background-color: #030670;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    display: inline-block;
+    background-color: #3808b3;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #acc6d6; /* Change color on hover */
+}
+
+#form_elements {
+    display: flex; 
+    flex-direction: column; 
+}
+
+#form_elements > * {
+    margin-top: 1rem;
+}
+.page_title {
+    text-align: center;
+}
+.header_logo {
+    color: white;
+    padding: 15px;
+}
+
+.page_form {
+    width: 100%;
+    max-width: 500px;
+    padding: 15px;
+    margin: auto;
+    border: 1px solid #acc6d6;
+    background-color: lightgray;
+}
+
+.page_form .checkbox {
+    font-weight: 400;
+}
+
+.page_form .form-floating:focus-within {
+    z-index: 2;
+}
+
+.page_form input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.page_form input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.container{
+    background-color: #e8e8f4;
+    padding: 24px;
+}
