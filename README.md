@@ -6,10 +6,7 @@ Ensured appropriate data types and established clear relationships between table
 
 Étape 2 – Grade Entry Page
 Dynamically fetched course and evaluation lists from the server.
-
 Used loops in PHP to populate <select> elements for efficient form management.
-
-Validated grades before insertion, stored them in the Results table, and displayed a confirmation message upon successful submission.
 
 
 
@@ -17,7 +14,7 @@ Validated grades before insertion, stored them in the Results table, and display
 
 Retrieved grades from the server using precise SQL queries.Leveraged PHP loops for displaying grades in a structured and readable manner.
 
-Ensured all relevant information (courses and evaluations) was visible, with no output for evaluations missing grades.
+
 
 
 
