@@ -1,4 +1,4 @@
-# This project involves the development of a web-based Student Grade Management System to manage courses, evaluations, and results. The system is divided into six key stages, each focusing on a specific functionality, ensuring a comprehensive and efficient user experience:
+### This project involves the development of a web-based Student Grade Management System to manage courses, evaluations, and results. The system is divided into six key stages, each focusing on a specific functionality, ensuring a comprehensive and efficient user experience:
 
 ## Step 1 – Database Creation
 Designed and implemented tables for Courses, Evaluations, and Results.
