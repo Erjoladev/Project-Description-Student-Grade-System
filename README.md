@@ -23,4 +23,4 @@ Developed a homepage as the system's entry point. Implemented a navigation menu 
 Facilitated easy selection and update of grades for existing courses and evaluations.
 Ensured the update process was intuitive and displayed a success or failure message after the operation.
 
-[^1]: PHP, MySQL, JavaScript, HTML, CSS 
+*PHP, MySQL, JavaScript, HTML, CSS*
